@@ -29,6 +29,9 @@ int16_t DST = 3600;       //To enable Daylight saving time set it to 3600. Other
 * PubSubClient by Nick O'Leary Version 2.8
 
 ### 8. Selected your specific ESP32 board and Compile/Upload
+I am using a Heltec Wireless Stick however any ESP32 board will work.
+![PXL_20221117_061046605](https://user-images.githubusercontent.com/33669966/202370553-5e93dbfd-e783-41a0-9806-e433c6fc36dc.jpg)
+
 ### 9. Open Serial Port Monitor and change baudrate to 115200
 
 You should see WiFi / MQTT connection messages followed by blockchain events. 
