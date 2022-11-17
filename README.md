@@ -8,7 +8,7 @@ This project is designed to run on any ESP32 microcontroller. Blockchain event p
 ### 2. Request Testnet tokens using [telegram bot](https://t.me/dSXP_bot).
 ### 3. Vote for Delegate **pj** in Desktop Wallet.
 ### 4. Create a unique 8 character message and then [sign the message using the desktop wallet](https://friendsoflittleyus.nl/how-to-sign-and-verify-messages-on-solar-blockchain/).
-### 5. Rename file **secrets.h_exxample** to **secrets.h**
+### 5. Rename file **secrets.h_example** to **secrets.h**
 ### 6. In secrets.h update the following items with your values.
 ```
 #define MQTT_CLIENT_NAME  "random or unique value"  
