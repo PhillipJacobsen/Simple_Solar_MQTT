@@ -3,7 +3,7 @@
 
     Demo application using authenticated MQTT access to receive Solar.org blockchain events.
     This project is designed to run on any ESP32 microcontroller
-    Blockchain events packets are sent to the serial port as ASCII text for display on terminal program running on PC
+    Blockchain event packets are sent to the serial port as ASCII text for display on terminal program running on PC
     LED is toggled at every blockchain event    
 
     Required Libraries:
