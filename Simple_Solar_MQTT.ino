@@ -276,8 +276,7 @@ void StateMachine() {
 void setup() {
 
   Serial.begin(115200);  // Initialize Serial Connection for debug
-  while (!Serial && millis() < 20)
-    ;  // wait 20ms for serial port adapter to power up
+  while (!Serial && millis() < 20);  // wait 20ms for serial port adapter to power up
 
   Serial.println("\n\nStarting Simple_Solar_MQTT");
 
